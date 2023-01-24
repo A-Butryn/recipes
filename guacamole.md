@@ -3,4 +3,4 @@
 - lime (£0.60)
 - salt (£0.05)
 # Instructions
-an alterative way of doing it
+this is my first instruction
